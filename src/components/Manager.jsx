@@ -104,7 +104,7 @@ const Manager = () => {
                 <h1 className='text-4xl text font-bold text-center'>
                     <span className="text-green-500">&lt;</span>
                     Pass
-                    <span className="text-green-500">OP/&gt;</span>
+                    <span className="text-green-500">ON/&gt;</span>
                 </h1>
                 <p className='text-green-900 text-lg text-center text font-bold'>Your own password manager</p>
 
